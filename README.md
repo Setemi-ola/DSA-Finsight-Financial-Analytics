@@ -51,4 +51,7 @@ The dataset comes from the Project file. Amounts are in Nigerian naira (NGN), co
 | DimCostCentre |	12 |	Functional cost pools |
 | DimDate |	built in DAX |	Calendar table for time intelligence |
 
-
+## Data model
+A star schema with the fact table in the centre. Each dimension joins to the fact table one-to-many, with a single filter direction. The date table is created in DAX and joined on TransactionDate.
+![Data model diagram showing the fact table connected to the related dimension tables](Images/Model.png)
+*Star-schema data model connecting financial transactions with account, department, branch, cost-centre, and date dimensions.*
