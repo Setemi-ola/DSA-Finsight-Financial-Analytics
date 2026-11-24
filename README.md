@@ -16,3 +16,11 @@ FinSight Distribution & Consumer Products Ltd is a Nigerian FMCG distributor, op
 freight, and import costs grew substantially faster than sales.
 
 ## Key Findings
+- Margins fell at every level. Gross margin dropped from **16.7%** to **11.7%**, operating margin from **-46.3%** to **-61.8%**, and net margin from **-49.0%** to **-63.9%**.
+- Product cost is not the main cause. Cost of goods sold grew **37.6%**, slower than revenue. The squeeze comes from the lines around it.
+- Energy, freight and import costs surged. Diesel and fuel rose **183%**, inbound freight **185%**, outbound freight **190%** and importation and customs **135%**. Together, freight and customs rose from about **₦0.32bn** to **₦0.83bn**.
+- Operating expenses outpaced sales. They rose **78%**, from **₦0.89bn** to **₦1.58bn**, about 25 points faster than revenue. The facility operations and logistics cost centres each grew from about **₦0.18bn** to roughly **₦0.48bn**.
+- Seven of eight branches lost more. Lagos Mainland had the largest swing, from a **₦132m** loss to **₦378m**. Abuja Central was the only branch that improved.
+- Revenue is uneven. Monthly revenue moved between **-34%** and **+63%** during 2025, which makes cash planning harder.
+
+## Dashboard Preview
