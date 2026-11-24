@@ -24,5 +24,17 @@ freight, and import costs grew substantially faster than sales.
 - Revenue is uneven. Monthly revenue moved between **-34%** and **+63%** during 2025, which makes cash planning harder.
 
 ## Dashboard Preview
-![KPI Overview dashboard showing key revenue, expense, profit, and margin indicators](Images/Overview.png)
-*Overview dashboard summarizing the company's financial performance.*
+![KPI Overview dashboard showing key revenue, expense, profit, and margin indicators](Images/KPI_Overview.jpeg)
+*KPI Overview dashboard summarizing the company's financial performance.*
+___
+![Profit and loss statement showing revenue, costs, expenses, and profit results](Images/Profit-and-Loss.jpeg)
+*Profit and loss statement with FY2024 and FY2025 comparisons.*
+___
+![Revenue dashboard showing margin trends and expense breakdowns](Images/Revenue-Margin.jpeg)
+*Revenue, margin trends, and expense breakdown.*
+___
+![Month-on-month revenue dashboard showing monthly revenue changes](Images/MoM-Revenue.jpeg)
+*Month-on-month revenue analysis.*
+___
+![Expense dashboard showing branch and department performance](Images/Department-and-Branch.jpeg)
+*Branch and department performance analysis.*
